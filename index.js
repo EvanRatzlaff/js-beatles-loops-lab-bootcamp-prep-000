@@ -19,10 +19,8 @@ function johnLennonFacts(facts){
   var i = 0
   last.push("I love The Beatles!")
   do { i++ 
-  i < num
     console.log(last.push("I love The Beatles!"))
   }
-  while (i< num){ last.push("I love The Beatles!");num - 15
-  }
+  while (i< num)
   return last
   }
