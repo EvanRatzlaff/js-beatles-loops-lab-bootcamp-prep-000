@@ -21,6 +21,8 @@ function johnLennonFacts(facts){
   do { i++ 
     console.log(last.push("I love The Beatles!"))
   }
-  while (i< num)
+  while (num[i]){
+    
+  }
   return last
   }
