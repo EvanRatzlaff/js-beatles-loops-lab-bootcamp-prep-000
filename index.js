@@ -18,10 +18,10 @@ function johnLennonFacts(facts){
   var last=[]
   var i = 0
   do { i++ 
-    console.log(last.push("I love The Beatles!"))
+    console.log(last.push("I love the Beatles!"))
   }
   while (i < num){
-    last.push("I love The Beatles!")
+    last.push("I love the Beatles!")
   }
   return last
   }
