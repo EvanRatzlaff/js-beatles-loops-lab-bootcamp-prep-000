@@ -22,7 +22,7 @@ function johnLennonFacts(facts){
     console.log(last.push("I love The Beatles!"))
   }
   while (num[i]){
-    
+    last.push("I love The Beatles!")
   }
   return last
   }
