@@ -27,5 +27,5 @@ function johnLennonFacts(facts){
   while (i < num)
      
    }
-  return last.push("I love the Beatles!")
+  return last
   }
