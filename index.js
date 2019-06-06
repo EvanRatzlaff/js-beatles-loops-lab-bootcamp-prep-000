@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
    if (num < 15){
      last.push("I love the Beatles!")
    }
-   else(); {
+   else(){
   do { i++ 
     console.log(last.push("I love the Beatles!"))
   }
