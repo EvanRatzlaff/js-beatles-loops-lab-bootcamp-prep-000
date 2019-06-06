@@ -17,11 +17,10 @@ function johnLennonFacts(facts){
  function iLoveTheBeatles(num){
   var last=[]
   var i = 0
-  last.push("I love The Beatles!")
   do { i++ 
     console.log(last.push("I love The Beatles!"))
   }
-  while (num[i]){
+  while (i < num){
     last.push("I love The Beatles!")
   }
   return last
